@@ -1,5 +1,9 @@
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
+## Team : Intel-Ectuals
+ #### Team Members: 
+[@username](https://github.com/username)<br> [@username](https://github.com/username)<br>[@username](https://github.com/username)
+
 ## Overview
 This project focuses on designing and implementing both slow and fast division algorithms in the field of computer architecture. The goal is to develop algorithms, code them in Verilog or VHDL, and analyze their functionality, performance, and efficiency. The project also involves synthesizing and implementing the designs, comparing them based on area, power, and speed, and drawing conclusions based on the results.
 
@@ -18,16 +22,34 @@ Simulation, Synthesis, and Implementation
 A division algorithm is a mathematical process that calculates the quotient and/or remainder of two integers, given a dividend and divisor. For example, if the dividend (a) is 15 and the divisor (b) is 8, the quotient (q) is 1 and the remainder (r) is 7. This project aims to implement both slow and fast division algorithms to perform such calculations efficiently.
 
 ### Tasks Accomplished
-- **Block Diagram :**
-    
-    <u>Slow-Division</u>
+<!-- Roadmap -->
+
+* [x] Block Diagram
+* [x] Flow Chart
+* [x] Algorithm
+* [x] Verilog Code & Test Bench
+* [x] RTL Simulation
+* [x] Functional Simulation
+* [x] Synthesis
+* [x] Analyse Area and Power report
+* [x] Apply Timing Constraints
+* [x] Implement in Cyclone V - 5CSEMA5F31C6N
+* [x] Develop Report
+* [x] Upload the files in Github
+* [x] Conclusions
+* [x] Video Demo
+
+**Block Diagram :**
+
+<u>Slow-Division</u>
     
     ![Block Diagram](/path/to/block_diagram.png)
     
     <u>Fast-Division </u>
     
     ![Block Diagram](/path/to/block_diagram.png)
-- **Algorithm & Flowchart:** 
+    
+**Algorithm & Flowchart :** 
  
   <u>Slow-Division</u>
     
@@ -36,7 +58,8 @@ A division algorithm is a mathematical process that calculates the quotient and/
      <u>Fast-Division </u>
     
     ![Block Diagram](/path/to/block_diagram.png)
-- **Develop the Verilog/VHDL code:**
+**Develop the Verilog/VHDL code:**
+
     ```verilog
     // Fast Division Algorithm Code
     // ...
