@@ -1,6 +1,3 @@
-# intelunnati_Intel-ectuals
-This repository contains the implementation and design files for the "Design and Implementation of Slow and Fast Division Algorithm in Computer Architecture"  as a part of Intel Unnati Internship Program. 
-
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
 ## Overview
@@ -21,10 +18,24 @@ Simulation, Synthesis, and Implementation
 A division algorithm is a mathematical process that calculates the quotient and/or remainder of two integers, given a dividend and divisor. For example, if the dividend (a) is 15 and the divisor (b) is 8, the quotient (q) is 1 and the remainder (r) is 7. This project aims to implement both slow and fast division algorithms to perform such calculations efficiently.
 
 ### Tasks Accomplished
-- **Block diagram for all the division algorithms:**
-- **FAST-DIVISON**![Block Diagram](Intelectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Block-Diagram/Block-Fast-Divison.jpg)
-- **SLOW-DIVISON**![Slow_Block Diagram](Intelectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Block-Diagram/Block-Slow-divison.jpg)
-- **Algorithm and flowchart for all the division algorithms:** ![Algorithm Flowchart](/path/to/algorithm_flowchart.png)
+- **Block Diagram :**
+    
+    <u>Slow-Division</u>
+    
+    ![Block Diagram](/path/to/block_diagram.png)
+    
+    <u>Fast-Division </u>
+    
+    ![Block Diagram](/path/to/block_diagram.png)
+- **Algorithm & Flowchart:** 
+ 
+  <u>Slow-Division</u>
+    
+    ![Block Diagram](/path/to/block_diagram.png)
+    
+     <u>Fast-Division </u>
+    
+    ![Block Diagram](/path/to/block_diagram.png)
 - **Develop the Verilog/VHDL code:**
     ```verilog
     // Fast Division Algorithm Code
