@@ -21,7 +21,7 @@ Simulation, Synthesis, and Implementation
 A division algorithm is a mathematical process that calculates the quotient and/or remainder of two integers, given a dividend and divisor. For example, if the dividend (a) is 15 and the divisor (b) is 8, the quotient (q) is 1 and the remainder (r) is 7. This project aims to implement both slow and fast division algorithms to perform such calculations efficiently.
 
 ### Tasks Accomplished
-- **Block diagram for all the division algorithms:** ![Block Diagram](/path/to/block_diagram.png)
+- **Block diagram for all the division algorithms:** **FAST-DIVISON**![Block Diagram](Intel-ectuals_Saintgits College of Engineering_Design and Implementation of slow and fast division algorithms in Computer Architecture/Block-Diagram/Block-Fast-Divison.jpg) **SLOW-DIVISON**![Block Diagram](Intel-ectuals_Saintgits College of Engineering_Design and Implementation of slow and fast division algorithms in Computer Architecture/Block-Diagram/Block-Slow-divison.jpg)
 - **Algorithm and flowchart for all the division algorithms:** ![Algorithm Flowchart](/path/to/algorithm_flowchart.png)
 - **Develop the Verilog/VHDL code:**
     ```verilog
