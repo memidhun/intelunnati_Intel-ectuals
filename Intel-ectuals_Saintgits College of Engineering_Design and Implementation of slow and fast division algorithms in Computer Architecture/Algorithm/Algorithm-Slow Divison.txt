@@ -1,0 +1,11 @@
+Registers used: A, M, Q, n (counter)
+Step 1: Load the initial values for the registers. 
+A = 0 (Accumulator), Qres = 0, M = Divisor, Q = Dividend and n is the count value which equals the number of bits of dividend.
+Step 2: Shift left {A,Q}. 
+Step 3: Perform A = A - M.
+Step 4: Check the sign bit of A. If 0, goto step 5. If 1, goto step 6.
+Step 5: Set LSB of Q as 0. Goto step 7.     
+Step 6: Set LSB of Q as 1. Restore the value of A which was present before the subtraction.
+Step 7: Decrement count. 
+Step 8: Check if counter value n is zero. If yes, goto next step. Else, goto step 3.
+Step 9: Stop
