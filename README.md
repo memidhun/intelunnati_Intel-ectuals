@@ -2,7 +2,9 @@
 
 ## Team : Intel-Ectuals
  #### Team Members: 
-[@username](https://github.com/username)<br> [@username](https://github.com/username)<br>[@username](https://github.com/username)
+1. [Midhun Mathew](https://github.com/memidhun)
+2. [Allharith Hakkim](https://github.com/allhaarithh)
+3. [Neena Anna Mathew](https://github.com/Neenaanna)
 
 ## Overview
 This project focuses on designing and implementing both slow and fast division algorithms in the field of computer architecture. The goal is to develop algorithms, code them in Verilog or VHDL, and analyze their functionality, performance, and efficiency. The project also involves synthesizing and implementing the designs, comparing them based on area, power, and speed, and drawing conclusions based on the results.
