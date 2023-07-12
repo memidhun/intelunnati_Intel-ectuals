@@ -1,7 +1,8 @@
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
-## Team : Intel-Ectuals
- #### Team Members: 
+## Team: Intel-Ectuals
+
+#### Team Members: 
 1. [Midhun Mathew](https://github.com/memidhun)
 2. [Allharith Hakkim](https://github.com/allhaarithh)
 3. [Neena Anna Mathew](https://github.com/Neenaanna)
@@ -25,7 +26,6 @@ A division algorithm is a mathematical process that calculates the quotient and/
 
 ### Tasks Accomplished
 <!-- Roadmap -->
-
 * [x] Block Diagram
 * [x] Flow Chart
 * [x] Algorithm
@@ -33,34 +33,36 @@ A division algorithm is a mathematical process that calculates the quotient and/
 * [x] RTL Simulation
 * [x] Functional Simulation
 * [x] Synthesis
-* [x] Analyse Area and Power report
+* [x] Analyze Area and Power report
 * [x] Apply Timing Constraints
 * [x] Implement in Cyclone V - 5CSEMA5F31C6N
 * [x] Develop Report
-* [x] Upload the files in Github
+* [x] Upload the files on GitHub
 * [x] Conclusions
 * [x] Video Demo
 
-**Block Diagram :**
+**Block Diagram:**
 
-<u>Slow-Division</u>
+<u>Slow Division:</u>
     
-    ![Block Diagram](/path/to/block_diagram.png)
+![Block Diagram](/path/to/slow_division_block_diagram.png)
     
-    <u>Fast-Division </u>
+<u>Fast Division:</u>
     
-    ![Block Diagram](/path/to/block_diagram.png)
+![Block Diagram](/path/to/fast_division_block_diagram.png)
     
-**Algorithm & Flowchart :** 
+**Algorithm & Flowchart:** 
  
-  <u>Slow-Division</u>
+<u>Slow Division:</u>
     
-    ![Block Diagram](/path/to/block_diagram.png)
+![Block Diagram](/path/to/slow_division_algorithm_flowchart.png)
     
-     <u>Fast-Division </u>
+<u>Fast Division:</u>
     
-    ![Block Diagram](/path/to/block_diagram.png)
-**Develop the Verilog/VHDL code:**
+![Block Diagram](/path/to/fast_division_algorithm_flowchart.png)
+
+**Develop the Verilog code:**
+
 
     ```verilog
     // Fast Division Algorithm Code
@@ -74,13 +76,13 @@ A division algorithm is a mathematical process that calculates the quotient and/
     - Functional simulation: Perform functional simulations to verify the correctness of the implemented designs.
     - RTL simulation: Conduct RTL simulations to evaluate the performance and functionality of the designs.
 - **Compare the dividers based on their area, power, and speed:** Record and analyze the data related to area utilization, power consumption, and operational speed for the synthesized designs.
-- **Tabulate the results:**
+- **Results:**
   
   | Algorithm        | Area   | Power    | Speed    |
   |------------------|--------|----------|----------|
   | Slow Division    | ...    | ...      | ...      |
   | Fast Division    | ...    | ...      | ...      |
   
-- **Draw conclusions based on the design:** Evaluate the efficiency, performance, and trade-offs of the slow and fast division algorithms based on the analysis and comparison. Provide recommendations for future enhancements.
+- **Conclusions based on the design:** Evaluate the efficiency, performance, and trade-offs of the slow and fast division algorithms based on the analysis and comparison. Provide recommendations for future enhancements.
 
 Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results.
