@@ -22,8 +22,8 @@ A division algorithm is a mathematical process that calculates the quotient and/
 
 ### Tasks Accomplished
 - **Block diagram for all the division algorithms:**
-- **FAST-DIVISON**![Block Diagram](Block-Diagram/Block-Fast-Divison.jpg)
-- **SLOW-DIVISON**![Block Diagram](Block-Diagram/Block-Slow-divison.jpg)
+- **FAST-DIVISON**![Block Diagram](Intelectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Block-Diagram/Block-Fast-Divison.jpg)
+- **SLOW-DIVISON**![Slow_Block Diagram](Intelectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Block-Diagram/Block-Slow-divison.jpg)
 - **Algorithm and flowchart for all the division algorithms:** ![Algorithm Flowchart](/path/to/algorithm_flowchart.png)
 - **Develop the Verilog/VHDL code:**
     ```verilog
