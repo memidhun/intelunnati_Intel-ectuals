@@ -27,52 +27,21 @@ A division algorithm is a mathematical process that calculates the quotient and/
 
 ### Tasks Accomplished
 <!-- Roadmap -->
-* [x] Block Diagram
-* [x] Flow Chart
-* [x] Algorithm
-* [x] Verilog Code & Test Bench
-* [x] RTL Simulation
-* [x] Functional Simulation
-* [x] Synthesis
-* [x] Analyze Area and Power report
-* [x] Apply Timing Constraints
-* [x] Implement in Cyclone V - 5CSEMA5F31C6N
-* [x] Develop Report
+* [x] [Block Diagram]()
+* [x] [Flow Chart](path/to/folder)
+* [x] [Algorithm](Intel-ectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Algorithm)
+* [x] [Verilog Code & Test Bench](path/to/folder)
+* [x] [RTL Simulation](path/to/folder)
+* [x] [Functional Simulation]()
+* [x] [Synthesis]()
+* [x] [Analyze Area and Power report]()
+* [x] [Apply Timing Constraints]()
+* [x] [Implement in Cyclone V - 5CSEMA5F31C6N]()
+* [x] [Develop Report]()
 * [x] Upload the files on GitHub
 * [x] Conclusions
-* [x] Video Demo
+* [x] [Video Demo]()
 
-**Block Diagram:**
-
-<u>Slow Division:</u>
-    
-![Block Diagram](/path/to/slow_division_block_diagram.png)
-    
-<u>Fast Division:</u>
-    
-![Block Diagram](/path/to/fast_division_block_diagram.png)
-    
-**Algorithm & Flowchart:** 
- 
-<u>Slow Division:</u>
-    
-![Block Diagram](/path/to/slow_division_algorithm_flowchart.png)
-    
-<u>Fast Division:</u>
-    
-![Block Diagram](/path/to/fast_division_algorithm_flowchart.png)
-
-**Develop the Verilog code:**
-
-
-    ```verilog
-    // Fast Division Algorithm Code
-    // ...
-    ```
-    ```verilog
-    // Slow Division Algorithm Code
-    // ...
-    ```
 - **Synthesize and implement the designs:**
     - Functional simulation: Perform functional simulations to verify the correctness of the implemented designs.
     - RTL simulation: Conduct RTL simulations to evaluate the performance and functionality of the designs.
