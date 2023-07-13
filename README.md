@@ -63,17 +63,17 @@ For the simulation of the designed algorithms, we utilized the [IntelÂ® QuartusÂ
   - **Comparision based on their Area, Power, and Speed:** After synthesis, we analyzed the synthesized designs to compare their characteristics based on area utilization, power consumption, and operational speed. The synthesis reports provided information on the resources utilized by each design and their corresponding performance metrics. The results of the comparison are as follows:
     ###  **Results:**
       
-    |                   | Slow Division               | Fast Division               |
+    |                  | Slow Division Algorithm             | Fast Division Algorithm              |
     |-------------------|-----------------------------|-----------------------------|
-    | **Area Utilization**                                                           
+    | **Area Utilization :**                                                           
     | ALMs              | 9 out of 32,070 (< 1%)      | 15 out of 32,070 (< 1%)     |
     | LABs              | 2 out of 3,207 (< 1%)       | 3 out of 3,207 (< 1%)       |
     | Combinational ALUTs | 17                          | Varies (0 to 28)            |
     | I/O Pins          | 20 out of 457 (4%)          | 16 out of 457 (4%)          |
-    | **Power Consumption** |                             |                             |
+    | **Power Consumption :** |                             |                             |
     | Average Toggle Rate | 8.428 M transitions/s      | 0 M transitions/s           |
     | Total Thermal Power | 425.87 mW                  | 420.79 mW                   |
-    | **Operational Speed** |                             |                             |
+    | **Operational Speed :** |                             |                             |
     | Worst-case Setup Slack | 17.173 ns                 | 1.5 ns                      |
     | Worst-case Hold Slack | 0.147  ns                  | 0.8 ns                      |
     | Design-wide TNS   | 0.0      ns                   | -0.2 ns                     |
