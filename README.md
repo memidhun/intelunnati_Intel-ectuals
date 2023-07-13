@@ -44,7 +44,7 @@ A division algorithm is a mathematical process that calculates the quotient and/
 * [x] [Implement in Cyclone V FPGA Board - 5CSEMA5F31C6](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Output%20Files/)
 * [x] [Develop Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Docs/)
 * [x] [Upload the files on GitHub](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/)
-* [x] [Conclusions](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Docs/)
+* [x] [Conclusions](#conclusion)
 * [x] [Video Demo](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Video-Demo/)
 
 ## Tools Used
@@ -80,7 +80,7 @@ For the simulation of the designed algorithms, we utilized the [IntelÂ® QuartusÂ
       
     *For detailed report check this file : [APS Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)*
   
-
+<a id="conclusion"></a>
 ## Conclusion
 
 The implemented slow and fast division algorithms have been evaluated for their efficiency, performance, and trade-offs. Through detailed analysis and comparison, we have assessed their characteristics in terms of area utilization, power consumption, and operational speed. Based on our findings, we make the following recommendations:
