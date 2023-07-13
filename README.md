@@ -79,7 +79,7 @@ For the simulation of the designed algorithms, we utilized the [IntelÂ® QuartusÂ
     | Design-wide TNS   | 0.0      ns                   | -0.2 ns                     |
 
       
-    *For detailed report check this file : [Area and Power Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)*
+    *For detailed report check this file : [APS Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)*
   
 
 ## Conclusion
