@@ -4,11 +4,13 @@
 
 ## Team: Intel-Ectuals
 
-#### Team Members:
+#### Team Members :
 1. [Midhun Mathew](https://github.com/memidhun)
 2. [Allharith Hakkim](https://github.com/allhaarithh)
 3. [Neena Anna Mathew](https://github.com/Neenaanna)
 
+#### Project Mentor :
+ [Jyothish Chandran G](mailto:jyothish.cg@saintgits.org)
 ## Overview
 This project focuses on designing and implementing both slow and fast division algorithms in the field of computer architecture. The goal is to develop algorithms, code them in Verilog or VHDL, and analyze their functionality, performance, and efficiency. The project also involves synthesizing and implementing the designs, comparing them based on area, power, and speed, and drawing conclusions based on the results.
 
@@ -38,7 +40,7 @@ A division algorithm is a mathematical process that calculates the quotient and/
 * [x] [Synthesis](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Pin-Planning/)
 * [x] [Analyze Area and Power report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)
 * [x] [Apply Timing Constraints](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)
-* [x] [Implement in Cyclone V - 5CSEMA5F31C6N]()
+* [x] [Implement in Cyclone V - 5CSEMA5F31C6]()
 * [x] [Develop Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Docs/)
 * [x] [Upload the files on GitHub](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/)
 * [x] [Conclusions](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Docs/)
@@ -51,18 +53,35 @@ For the simulation of the designed algorithms, we utilized the Intel® Quartus®
 
 - **LabsLand Online for Virtual Laboratory**<br>To augment our practical learning experience, we leveraged the LabsLand online website for accessing virtual laboratories. This platform facilitated the implementation and testing of our designs in a simulated environment, allowing us to gain hands-on experience and further validate the performance of our algorithms.
  ## **Synthesize and implement the designs:**
-   - **Functional simulation**: Perform functional simulations to verify the correctness of the implemented designs.
-   <br>*You can find the files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)*
-   - **RTL simulation**: Conduct RTL simulations to evaluate the performance and functionality of the designs. <br>*You can find the files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/RTL-Simulation/)*
-  - **Comparision based on their area, power, and speed:** Record and analyze the data related to area utilization, power consumption, and operational speed for the synthesized designs.
+   - **Functional simulation**: To ensure the correctness of our designs, we performed functional simulations using ModelSim Altera. The simulations involved running various test cases and verifying the expected outputs against the implemented algorithms. The functional simulations demonstrated that our designs accurately perform the division operations and produce the expected results.
+   <br>*You can find functional simulation files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)*
+   - **RTL simulation**: To evaluate the performance and functionality of the implemented designs we conducted RTL Simulation. The simulations were performed using Intel® Quartus® Prime Lite, and they provided insights into the behavior and timing of the designs at the Register Transfer Level (RTL). Through RTL simulations, we verified that our designs met the required specifications and operated as intended.. <br>*You can find RTL simulation  files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/RTL-Simulation/)*
+   - **Pin Planning**: For our design implementation on the Cyclone V - 5CSEMA5F31C6 FPGA, we carefully assigned the required pins for inputs, outputs, and the clock based on the Cyclone V - 5CSEMA5F31C6 datasheet. The pin assignments were made considering the specific functionality and timing requirements of our designs.
+   <br>*You can find Pin Planning files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Pin-Planning/)*
+  - **Comparision based on their Area, Power, and Speed:** After synthesis, we analyzed the synthesized designs to compare their characteristics based on area utilization, power consumption, and operational speed. The synthesis reports provided information on the resources utilized by each design and their corresponding performance metrics. The results of the comparison are as follows:
     ###  **Results:**
       
       | Algorithm        | Area   | Power    | Speed    |
       |------------------|--------|----------|----------|
       | Slow Division    | ...    | ...      | ...      |
       | Fast Division    | ...    | ...      | ...      |
+      
+    *Check this file : [Area and Power Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)*
   
-  ## Conclusions :
-  Evaluate the efficiency, performance, and trade-offs of the slow and fast division algorithms based on the analysis and comparison. Provide recommendations for future enhancements.
 
- *Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results*.
+## Conclusion
+
+The implemented slow and fast division algorithms have been evaluated for their efficiency, performance, and trade-offs. Through detailed analysis and comparison, we have assessed their characteristics in terms of area utilization, power consumption, and operational speed. Based on our findings, we make the following recommendations:
+
+- The slow division algorithm demonstrates [specific advantages or characteristics].
+- The fast division algorithm showcases [specific advantages or characteristics].
+- Future enhancements should consider [potential improvements or optimizations].
+
+For a better understanding of the project, please watch our [Video Demo](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Video-Demo/).
+
+*Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results.*
+
+Thank you for your interest in our project!
+
+
+
