@@ -5,7 +5,7 @@
 ## Team: Intel-Ectuals
 #### Team Members :
 1. [Midhun Mathew](https://github.com/memidhun)
-2. [Allharith Hakkim](https://github.com/allhaarithh)
+2. [Alhaarith Hakkim](https://github.com/allhaarithh)
 3. [Neena Anna Mathew](https://github.com/Neenaanna)
 
 #### Project Mentor :
