@@ -1,15 +1,16 @@
 ![Unnati Banner](https://theprograms.in/images/banner.jpg)
+
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
 ## Team: Intel-Ectuals
 
-#### Team Members: 
+#### Team Members:
 1. [Midhun Mathew](https://github.com/memidhun)
-2. [Alhaarith Hakkim](https://github.com/allhaarithh)
+2. [Allharith Hakkim](https://github.com/allhaarithh)
 3. [Neena Anna Mathew](https://github.com/Neenaanna)
 
 ## Overview
-This project focuses on designing and implementing both slow and fast division algorithms in the field of computer architecture. The goal is to develop algorithms, code them in Verilog , and analyze their functionality, performance, and efficiency. The project also involves synthesizing and implementing the designs, comparing them based on area, power, and speed, and drawing conclusions based on the results.
+This project focuses on designing and implementing both slow and fast division algorithms in the field of computer architecture. The goal is to develop algorithms, code them in Verilog or VHDL, and analyze their functionality, performance, and efficiency. The project also involves synthesizing and implementing the designs, comparing them based on area, power, and speed, and drawing conclusions based on the results.
 
 ## Pre-requisites
 - Digital Design knowledge
@@ -43,19 +44,25 @@ A division algorithm is a mathematical process that calculates the quotient and/
 * [x] [Conclusions](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Docs/)
 * [x] [Video Demo](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Video-Demo/)
 
-## **Synthesize and implement the designs:**
+## Tools Used
+
+- **Intel® Quartus® Prime Lite Software and ModelSim Altera for Simulation**<br>
+For the simulation of the designed algorithms, we utilized the Intel® Quartus® Prime Lite Software along with ModelSim Altera. These tools provided us with the necessary features and functionalities to validate and verify the correctness of our designs.
+
+- **LabsLand Online for Virtual Laboratory**<br>To augment our practical learning experience, we leveraged the LabsLand online website for accessing virtual laboratories. This platform facilitated the implementation and testing of our designs in a simulated environment, allowing us to gain hands-on experience and further validate the performance of our algorithms.
+ ## **Synthesize and implement the designs:**
    - **Functional simulation**: Perform functional simulations to verify the correctness of the implemented designs.
-   - **RTL simulation**: Perform functional simulations to verify the correctness of the implemented designs.
-    - RTL simulation: Conduct RTL simulations to evaluate the performance and functionality of the designs.
-- **Compare the dividers based on their area, power, and speed:** Record and analyze the data related to area utilization, power consumption, and operational speed for the synthesized designs.
+   <br>*You can find the files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)*
+   - **RTL simulation**: Conduct RTL simulations to evaluate the performance and functionality of the designs. <br>*You can find the files [Here](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/RTL-Simulation/)*
+  - **Comparision based on their area, power, and speed:** Record and analyze the data related to area utilization, power consumption, and operational speed for the synthesized designs.
     ###  **Results:**
+      
+      | Algorithm        | Area   | Power    | Speed    |
+      |------------------|--------|----------|----------|
+      | Slow Division    | ...    | ...      | ...      |
+      | Fast Division    | ...    | ...      | ...      |
   
-  | Algorithm        | Area   | Power    | Speed    |
-  |------------------|--------|----------|----------|
-  | Slow Division    | ...    | ...      | ...      |
-  | Fast Division    | ...    | ...      | ...      |
-  
-- ## Conclusions :
+  ## Conclusions :
   Evaluate the efficiency, performance, and trade-offs of the slow and fast division algorithms based on the analysis and comparison. Provide recommendations for future enhancements.
 
- **Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results**.
+ *Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results*.
