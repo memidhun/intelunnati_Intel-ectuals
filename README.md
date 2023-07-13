@@ -1,3 +1,4 @@
+![Unnati Banner](https://theprograms.in/images/banner.jpg)
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
 ## Team: Intel-Ectuals
