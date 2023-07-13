@@ -55,6 +55,7 @@ A division algorithm is a mathematical process that calculates the quotient and/
   | Slow Division    | ...    | ...      | ...      |
   | Fast Division    | ...    | ...      | ...      |
   
-- **Conclusions based on the design:** Evaluate the efficiency, performance, and trade-offs of the slow and fast division algorithms based on the analysis and comparison. Provide recommendations for future enhancements.
+- ## Conclusions :
+  Evaluate the efficiency, performance, and trade-offs of the slow and fast division algorithms based on the analysis and comparison. Provide recommendations for future enhancements.
 
-Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results.
+ **Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results**.
