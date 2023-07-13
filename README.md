@@ -27,20 +27,20 @@ A division algorithm is a mathematical process that calculates the quotient and/
 
 ### Tasks Accomplished
 <!-- Roadmap -->
-* [x] [Block Diagram]()
-* [x] [Flow Chart](path/to/folder)
-* [x] [Algorithm]([Algorithm](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Algorithm/)
-* [x] [Verilog Code & Test Bench](path/to/folder)
-* [x] [RTL Simulation](path/to/folder)
-* [x] [Functional Simulation]()
-* [x] [Synthesis]()
-* [x] [Analyze Area and Power report]()
-* [x] [Apply Timing Constraints]()
-* [x] [Implement in Cyclone V - 5CSEMA5F31C6N]()
-* [x] [Develop Report]()
+* [x] [Block Diagram](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Block-Diagram/)
+* [x] [Flow Chart](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Flow-Chart/)
+* [x] [Algorithm](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Algorithm/)
+* [x] [Verilog Code & Test Bench](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/CODE/)
+* [x] [RTL Simulation](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/RTL-Simulation/)
+* [x] [Functional Simulation](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Functional-Simulation/)
+* [x] Synthesis
+* [x] [Analyze Area and Power report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Analysis/)
+* [x] Apply Timing Constraints
+* [x] Implement in Cyclone V - 5CSEMA5F31C6N
+* [x] [Develop Report](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Docs/)
 * [x] Upload the files on GitHub
 * [x] Conclusions
-* [x] [Video Demo]()
+* [x] [Video Demo](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Video-Demo/)
 
 - **Synthesize and implement the designs:**
     - Functional simulation: Perform functional simulations to verify the correctness of the implemented designs.
