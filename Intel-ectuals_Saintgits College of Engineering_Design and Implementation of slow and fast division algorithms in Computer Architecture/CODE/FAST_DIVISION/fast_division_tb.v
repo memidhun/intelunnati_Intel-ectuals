@@ -22,8 +22,8 @@ module fast_division_tb;
     $display("Start of test bench");
     
     // Test case 1
-    dividend = 10;
-    divisor = 3;
+    dividend = 15;
+    divisor = 8;
     
     #10;  // Wait for some time
     
@@ -39,8 +39,8 @@ module fast_division_tb;
     end
     
     // Test case 2
-    dividend = 12;
-    divisor = 4;
+    dividend = 10;
+    divisor = 2;
     
     #10;  // Wait for some time
     
