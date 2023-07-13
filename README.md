@@ -29,7 +29,7 @@ A division algorithm is a mathematical process that calculates the quotient and/
 <!-- Roadmap -->
 * [x] [Block Diagram]()
 * [x] [Flow Chart](path/to/folder)
-* [x] [Algorithm](Intel-ectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Algorithm)
+* [x] [Algorithm](Intel-ectuals_Saintgits_College_of_Engineering_Design_and_Implementation_of_slow_and_fast_division_algorithms_in_Computer_Architecture/Algorithm/)
 * [x] [Verilog Code & Test Bench](path/to/folder)
 * [x] [RTL Simulation](path/to/folder)
 * [x] [Functional Simulation]()
