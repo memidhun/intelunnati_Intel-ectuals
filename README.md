@@ -106,7 +106,7 @@ The implemented slow and fast division algorithms have been evaluated for their 
 - **Code Size and Complexity:** The fast division algorithm has a smaller code size and reduced complexity compared to the slow division algorithm, making it potentially easier to understand and maintain.
 - **Algorithm Complexity:** The slow division algorithm has higher complexity due to its iterative nature and conditional branching, while the fast division algorithm offers a simpler structure and reduced complexity.
 
-For a better understanding of the project, please watch our [Video Demo](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Video-Demo/).
+For a better understanding of the project, please watch our [Video Demo](Intel-ectuals_Saintgits%20College%20of%20Engineering_Design%20and%20Implementation%20of%20slow%20and%20fast%20division%20algorithms%20in%20Computer%20Architecture/Video-Demo/Demo-Video.md).
 
 *Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results.*
 
