@@ -6,7 +6,7 @@
 #### Team Members :
 1. [Midhun Mathew](https://github.com/memidhun)
 2. [Alhaarith Hakkim](https://github.com/allhaarithh)
-3. [Neena Anna Mathew](https://github.com/Neenaanna)
+3. [Neena Mathew](https://github.com/Neenaanna)
 
 #### Project Mentor :
  [Jyothish Chandran G](mailto:jyothish.cg@saintgits.org)
