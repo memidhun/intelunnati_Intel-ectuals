@@ -1,4 +1,4 @@
-//TEAM INTEL-ECTUALS - MEMBERS : MIDHUN MATHEW , NEENA ANNA MATHEW , ALHARITH HAKKIM 
+//TEAM INTEL-ECTUALS - MEMBERS : MIDHUN MATHEW , NEENA MATHEW , ALHARITH HAKKIM 
 // Implementation of Slow Divison Algorithm in Verilog - Restoring Divison Algorithm 
 
 module slowdivision(clk,rst,start,X,Y,valid,quot,rem);
