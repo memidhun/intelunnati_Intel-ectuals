@@ -1,5 +1,5 @@
 
-//TEAM INTEL-ECTUALS - MEMBERS : MIDHUN MATHEW , NEENA ANNA MATHEW , ALHARITH HAKKIM 
+//TEAM INTEL-ECTUALS - MEMBERS : MIDHUN MATHEW , NEENA MATHEW , ALHARITH HAKKIM 
 // Implementation of Fast Divison Algorithm in Verilog - Reciprocal Approximation Algorithm 
 module fast_division(
   input [3:0] dividend,
