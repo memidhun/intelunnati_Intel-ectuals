@@ -90,7 +90,5 @@ For a better understanding of the project, please watch our [Video Demo](Intel-e
 
 *Please refer to the project's individual files and directories for detailed information on each aspect, including block diagrams, algorithm descriptions, code files, testbenches, synthesis reports, and the final tabulated results.*
 
-Thank you for your interest in our project!
-
 
 
