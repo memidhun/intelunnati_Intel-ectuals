@@ -1,4 +1,4 @@
-![Unnati Banner](https://www.intel.in/content/dam/www/central-libraries/us/en/images/2024-01/intel-unnati-indl-trg-1920-x-1080.jpg.rendition.intel.web.864.486.jpg)
+![Unnati Banner](11111.png)
 
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
