@@ -1,4 +1,4 @@
-![Unnati Banner](11111.png)
+![Unnati Banner](banner.png)
 
 # Design and Implementation of Slow and Fast Division Algorithms in Computer Architecture
 
